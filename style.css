@@ -1,0 +1,27 @@
+form {
+  margin-left: 30px;
+}
+
+header {
+  text-align: center;
+  font-family: Tahoma;
+  color: #333;
+  font-size: 48px;
+  margin-bottom: 30px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+label {
+  display: block;
+}
+
+
+
+#reset
+{
+  float:right;
+}
+
+input:invalid{color:red;}
+input:valid{color:green;}
